@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UiHelpers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58a0fd52d384dd524351545bcf1cadc7bbc7dcbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3b077107bf9327ee743b4a53d9914b09298ec70")]
 [assembly: System.Reflection.AssemblyProductAttribute("UiHelpers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UiHelpers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GCGka9JQSjJYUJ8R9Nqk+vlAJCALWMYgG7TKTb782sVHZa/UO3dXccTqhpwm+7XTqyQF6OMqIeiNIX3NjenEew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiExtensions\\UiExtensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johil_angelo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\johil_angelo\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512"
+  ],
+  "logs": []
+}
