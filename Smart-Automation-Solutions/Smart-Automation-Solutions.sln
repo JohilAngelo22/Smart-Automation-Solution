@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiHelpers", "UiHelpers\UiHelpers.csproj", "{445C6E5F-029F-452A-A069-F1C18D0F29B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiUtilities", "UiUtilities\UiUtilities.csproj", "{D8B3EF5A-F486-4EBB-9D52-E85AF4D49D5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{445C6E5F-029F-452A-A069-F1C18D0F29B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{445C6E5F-029F-452A-A069-F1C18D0F29B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{445C6E5F-029F-452A-A069-F1C18D0F29B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B3EF5A-F486-4EBB-9D52-E85AF4D49D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B3EF5A-F486-4EBB-9D52-E85AF4D49D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B3EF5A-F486-4EBB-9D52-E85AF4D49D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B3EF5A-F486-4EBB-9D52-E85AF4D49D5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

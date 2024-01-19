@@ -1,0 +1,13 @@
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\bin\Debug\net8.0\UiUtilities.deps.json
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\bin\Debug\net8.0\UiUtilities.dll
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\bin\Debug\net8.0\UiUtilities.pdb
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\obj\Debug\net8.0\UiUtilities.csproj.AssemblyReference.cache
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\obj\Debug\net8.0\UiUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\obj\Debug\net8.0\UiUtilities.AssemblyInfoInputs.cache
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\obj\Debug\net8.0\UiUtilities.AssemblyInfo.cs
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\obj\Debug\net8.0\UiUtilities.csproj.CoreCompileInputs.cache
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\obj\Debug\net8.0\UiUtilities.sourcelink.json
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\obj\Debug\net8.0\UiUtilities.dll
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\obj\Debug\net8.0\refint\UiUtilities.dll
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\obj\Debug\net8.0\UiUtilities.pdb
+C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\UiUtilities\obj\Debug\net8.0\ref\UiUtilities.dll
