@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DataVerification
-build_property.ProjectDir = C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\DataVerification\
+build_property.ProjectDir = C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\DataVerification\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

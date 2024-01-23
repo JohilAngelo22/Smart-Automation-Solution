@@ -1148,11 +1148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\DataVerification\\DataVerification.csproj",
+      "projectUniqueName": "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\DataVerification\\DataVerification.csproj",
       "projectName": "DataVerification",
-      "projectPath": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\DataVerification\\DataVerification.csproj",
+      "projectPath": "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\DataVerification\\DataVerification.csproj",
       "packagesPath": "C:\\Users\\johil_angelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\DataVerification\\obj\\",
+      "outputPath": "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\DataVerification\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\johil_angelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1169,11 +1169,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\UiHelpers.csproj": {
-              "projectPath": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\UiHelpers.csproj"
+            "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\UiHelpers.csproj": {
+              "projectPath": "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\UiHelpers.csproj"
             },
-            "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiUtilities\\UiUtilities.csproj": {
-              "projectPath": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiUtilities\\UiUtilities.csproj"
+            "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiUtilities\\UiUtilities.csproj": {
+              "projectPath": "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiUtilities\\UiUtilities.csproj"
             }
           }
         }

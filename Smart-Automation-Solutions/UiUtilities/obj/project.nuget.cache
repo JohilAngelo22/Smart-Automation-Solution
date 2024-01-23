@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0FsWntTe8peuyTA2exBncYu0uiFtckcb7kfk+4sd/v5KedNCs0d/bp/wWpVjY7hkyRbmKXrFTEd5aHdUgKbC3g==",
+  "dgSpecHash": "H95kMHU0AcpXOuHKJaexqS4RyXMDCbO3ajDgvPEiEk8/vPDfjDkDsPh3OQXccu0Cj3+S04ECGngZM4CI1MzICQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiUtilities\\UiUtilities.csproj",
+  "projectFilePath": "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiUtilities\\UiUtilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johil_angelo\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\johil_angelo\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

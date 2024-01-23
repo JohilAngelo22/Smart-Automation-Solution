@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiExtensions\\UiExtensions.csproj": {}
+    "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiExtensions\\UiExtensions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiExtensions\\UiExtensions.csproj": {
+    "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiExtensions\\UiExtensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiExtensions\\UiExtensions.csproj",
+        "projectUniqueName": "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiExtensions\\UiExtensions.csproj",
         "projectName": "UiExtensions",
-        "projectPath": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiExtensions\\UiExtensions.csproj",
+        "projectPath": "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiExtensions\\UiExtensions.csproj",
         "packagesPath": "C:\\Users\\johil_angelo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiExtensions\\obj\\",
+        "outputPath": "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiExtensions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\johil_angelo\\AppData\\Roaming\\NuGet\\NuGet.Config",

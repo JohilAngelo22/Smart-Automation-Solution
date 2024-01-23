@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\UiHelpers.csproj": {}
+    "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\UiHelpers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\UiHelpers.csproj": {
+    "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\UiHelpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\UiHelpers.csproj",
+        "projectUniqueName": "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\UiHelpers.csproj",
         "projectName": "UiHelpers",
-        "projectPath": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\UiHelpers.csproj",
+        "projectPath": "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\UiHelpers.csproj",
         "packagesPath": "C:\\Users\\johil_angelo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\johil_angelo\\source\\repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\UiHelpers\\obj\\",
         "projectStyle": "PackageReference",
