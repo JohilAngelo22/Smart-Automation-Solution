@@ -114,3 +114,6 @@ C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart
 C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\DataVerification\obj\Debug\net8.0\DataVerification.pdb
 C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\DataVerification\obj\Debug\net8.0\DataVerification.genruntimeconfig.cache
 C:\Users\johil_angelo\source\repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\DataVerification\obj\Debug\net8.0\ref\DataVerification.dll
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\DataVerification\bin\Debug\net8.0\RestSharp.dll
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\DataVerification\bin\Debug\net8.0\ApiHelpers.dll
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\DataVerification\bin\Debug\net8.0\ApiHelpers.pdb

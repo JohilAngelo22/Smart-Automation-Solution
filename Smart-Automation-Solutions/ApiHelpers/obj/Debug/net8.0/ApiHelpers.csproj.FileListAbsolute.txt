@@ -1,0 +1,13 @@
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\bin\Debug\net8.0\ApiHelpers.deps.json
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\bin\Debug\net8.0\ApiHelpers.dll
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\bin\Debug\net8.0\ApiHelpers.pdb
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\obj\Debug\net8.0\ApiHelpers.csproj.AssemblyReference.cache
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\obj\Debug\net8.0\ApiHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\obj\Debug\net8.0\ApiHelpers.AssemblyInfoInputs.cache
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\obj\Debug\net8.0\ApiHelpers.AssemblyInfo.cs
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\obj\Debug\net8.0\ApiHelpers.csproj.CoreCompileInputs.cache
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\obj\Debug\net8.0\ApiHelpers.sourcelink.json
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\obj\Debug\net8.0\ApiHelpers.dll
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\obj\Debug\net8.0\refint\ApiHelpers.dll
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\obj\Debug\net8.0\ApiHelpers.pdb
+C:\Users\johil_angelo\Source\Repos\JohilAngelo22\Smart-Automation-Solution\Smart-Automation-Solutions\ApiHelpers\obj\Debug\net8.0\ref\ApiHelpers.dll

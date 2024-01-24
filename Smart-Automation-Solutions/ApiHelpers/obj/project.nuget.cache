@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cC4GAArZ5AjBRVuTexFEiap5pYAVXQLD29DaOVNRLdYIXWuFSdMiQLOZITFH4SQ2KXWIx9nFiJnL3VfHMoQncA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johil_angelo\\Source\\Repos\\JohilAngelo22\\Smart-Automation-Solution\\Smart-Automation-Solutions\\ApiHelpers\\ApiHelpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johil_angelo\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\johil_angelo\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\johil_angelo\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
