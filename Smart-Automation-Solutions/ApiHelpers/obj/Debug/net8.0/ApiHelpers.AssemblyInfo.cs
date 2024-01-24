@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiHelpers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a04fa12a9e97841ccb35ebb13c4b51b34f6a97e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c076128388e1220b5844f1ad19cd08cba5478c68")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiHelpers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiHelpers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

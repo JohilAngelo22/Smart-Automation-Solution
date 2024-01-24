@@ -3,18 +3,18 @@ using RestSharp.Authenticators;
 
 namespace ApiHelpers.ApiBase
 {
-    public class BaseApi
+    public class ApiRestSharp
     {
         private RestRequest? _restRequest;
         private readonly RestClient? _restClient;
         private readonly RestClientOptions? _restClientOptions;
 
-        public BaseApi() 
+        public ApiRestSharp() 
         { 
             _restClient = new();
             _restClientOptions = new RestClientOptions();
         }
-        public BaseApi(string baseUrl)
+        public ApiRestSharp(string baseUrl)
         {
             _restClientOptions = new (baseUrl);
             _restClient = new(_restClientOptions);
@@ -29,29 +29,29 @@ namespace ApiHelpers.ApiBase
         //    restClient = new RestClient(options);
         //    _restClient = new(baseUrl);
         //}
-        public BaseApi AddRequest(string endpoint, Method method)
+        public ApiRestSharp AddRequest(string endpoint, Method method)
         {
             _restRequest = new RestRequest(endpoint, method);
             return this;
         }
 
-        public BaseApi PostMethod(string endpoint)
+        public ApiRestSharp PostMethod(string endpoint)
         {
             AddRequest(endpoint, Method.Post);
             return this;
         }
-        public BaseApi PutMethod(string endpoint)
+        public ApiRestSharp PutMethod(string endpoint)
         {
             AddRequest(endpoint, Method.Put);
             return this;
         }
 
-        public BaseApi DeleteMethod(string endpoint)
+        public ApiRestSharp DeleteMethod(string endpoint)
         {
             AddRequest(endpoint, Method.Delete);
             return this;
         }
-        public BaseApi GetMethod(string endpoint)
+        public ApiRestSharp GetMethod(string endpoint)
         {
             AddRequest(endpoint, Method.Get);
             return this;
@@ -61,18 +61,18 @@ namespace ApiHelpers.ApiBase
         {
             return _restClient!.Execute(_restRequest!);
         }
-        public BaseApi AddQueryParameters(string name, string value)
+        public ApiRestSharp AddQueryParameters(string name, string value)
         {
             _restRequest!.AddQueryParameter(name, value);
             return this;
         }
 
-        public BaseApi AddHeader(string name, string value)
+        public ApiRestSharp AddHeader(string name, string value)
         {
             _restRequest!.AddHeader(name, value);
             return this;
         }
-        public BaseApi AddBasicAuthentication(string username, string password)
+        public ApiRestSharp AddBasicAuthentication(string username, string password)
         {
             _restClientOptions!.Authenticator = new HttpBasicAuthenticator(username, password);
             return this;
